@@ -1,0 +1,22 @@
+{
+  "name": "redux-rendering",
+  "version": "1.0.0",
+  "description": "In each subfolder you'll find a simple Redux application, each with a fully implemented render method. You might find these render methods familiar; they're the same examples from your prior rendering exercises. You'll be writing the Redux data-layer for each of these examples.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LannyWang009/redux-rendering.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LannyWang009/redux-rendering/issues"
+  },
+  "homepage": "https://github.com/LannyWang009/redux-rendering#readme",
+  "dependencies": {
+    "immutable": "^4.0.0-rc.12"
+  }
+}
